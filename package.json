@@ -1,0 +1,10 @@
+{
+  "name": "tp2-recolector-evidencia",
+  "version": "1.0.0",
+  "description": "Recolector de Evidencia - cluster, self-healing y graceful shutdown - Programacion sobre Redes - IFTS N16",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "ISC"
+}
